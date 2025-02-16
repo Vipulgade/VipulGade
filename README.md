@@ -13,7 +13,7 @@
     
   - 🔭 I’m currently working on **Web Application Develoment And Maintenance**
     
-  - 🌱 I’m currently learning **Microservices,Spring Security,AWs**
+  - 🌱 I’m currently learning **Microservices,Spring Security,AWS**
 
   - 👯 I’m looking to collaborate on **Java,JavaScript,Spring Boot**
 
